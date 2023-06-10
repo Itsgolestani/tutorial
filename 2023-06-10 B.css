@@ -1,0 +1,15 @@
+div ~ h1{
+    background-color: yellow ;
+}
+
+div ul {
+    color: red;
+}
+
+p ~ ol{
+    font-size: 33px;
+}
+
+span{
+    color: red;
+}
