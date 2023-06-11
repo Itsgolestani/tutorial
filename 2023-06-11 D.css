@@ -1,0 +1,15 @@
+/**{*/
+/*    background-color: dimgray;*/
+/*}*/
+table,tr,td{
+    border: black 1px solid;
+}
+table{
+    direction: rtl;
+}
+td:nth-child(even){
+    background-color: firebrick;
+}
+tr:hover{
+    color: green;
+}
