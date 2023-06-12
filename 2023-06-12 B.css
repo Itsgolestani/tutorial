@@ -1,0 +1,11 @@
+/**{background-color: darkslategrey }*/
+table,tr,td{
+    border: black 0.5px solid;
+    border-collapse: collapse;
+}
+tr:hover{
+    background-color: green;
+}
+/*tr:nth-child(even){*/
+/*    color: yellow;*/
+/*}*/
