@@ -1,0 +1,12 @@
+*{
+    background-color: darkgrey;
+}
+a{
+    font-size: 10px;
+    text-decoration: none   ;
+}
+input[type=submit]:hover{
+    color: dodgerblue ;
+}
+
+
