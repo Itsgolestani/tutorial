@@ -1,0 +1,24 @@
+span.Red{
+    color: red;
+}span.blue {
+    color: blue;
+ }
+ p.green{
+     font-size: 20px;
+     color: darkblue;
+     background: #b5b576 ;
+ }
+ *{
+     background-color: cadetblue;
+ }
+ p ~ ol,ul{
+     color: yellow;
+ }
+
+ div p.aqa {
+     background-color: aqua;
+ }
+ #Size {
+     width: 30px;
+     height: 30px;
+ }
