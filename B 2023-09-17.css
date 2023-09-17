@@ -1,0 +1,6 @@
+*{
+    background-color: aqua;
+}
+input[type=text], input[type=email]{
+   border: cornflowerblue .5px solid;
+}
