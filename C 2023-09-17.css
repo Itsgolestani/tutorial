@@ -1,9 +1,14 @@
-*{
-    background-color: aqua;
+.div1{
+    background-color: bisque;
+    border: royalblue 25px solid;
+    width: 200px;
+    padding: 25px 10px 10px 10px;
+    margin: 25px 10px 10px 10px;
 }
-input[type=text], input[type=email] input[type=password]{
-   border: cornflowerblue .5px solid;
-}
-a{
-    text-decoration: none;
+.div2{
+    background-color: bisque;
+    border: royalblue 25px solid;
+    width: 200px;
+    padding: 25px 10px 10px 10px;
+    margin: 25px 10px 10px 10px;
 }
