@@ -1,6 +1,11 @@
-*{
-    background-color: aqua;
+table{
+    border-collapse: collapse;
+    direction: rtl;
 }
-input[type=text], input[type=email]{
-   border: cornflowerblue .5px solid;
+table,tr,td{
+    border: #3085C3 .5px solid;
 }
+tr:hover{
+    background-color: #3085C3;
+}
+
